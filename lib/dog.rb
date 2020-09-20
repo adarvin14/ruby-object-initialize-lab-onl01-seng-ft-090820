@@ -12,4 +12,8 @@ class Dog
   def dog_breed
     @breed
   end
+  
+  def dog_name
+    @name
+  end
 end
